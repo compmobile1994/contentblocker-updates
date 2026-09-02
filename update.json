@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.3",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.3/app-debug.apk",
-  "notes": "מעדכן מובנה חדש: מעכשיו האפליקציה תודיע לך על עדכונים לבד. + אינסטגרם/פייסבוק כבר לא נחסמים בטעות + לוגו חדש."
+  "versionCode": 5,
+  "versionName": "0.2.4",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.4/app-debug.apk",
+  "notes": "תיקון: אתרים של קלוד ובינה מלאכותית (claude.ai, ChatGPT, Gemini ועוד) כבר לא נחסמים בטעות. החסימה של תוכן לא צנוע ממשיכה לעבוד רגיל."
 }

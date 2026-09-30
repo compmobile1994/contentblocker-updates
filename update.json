@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.5",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.5/app-debug.apk",
-  "notes": "פחות חסימות בטעות: אתרים לגיטימיים (כולל אתרים ואפליקציות שנבנו בקלוד ונשלחו בוואטסאפ) כבר לא ייחסמו בגלל מילה אחת מקרית. תוכן פורנוגרפי ורכילות ממש עדיין נחסמים כרגיל."
+  "versionCode": 7,
+  "versionName": "0.2.6",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.6/app-debug.apk",
+  "notes": "תיקון: גלישה עם החסימה פעילה ברשתות WiFi ביתיות שחוסמות שרתי DNS חיצוניים. החסימה ממשיכה לעבוד כרגיל."
 }

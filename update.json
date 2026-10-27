@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.6",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.6/app-debug.apk",
-  "notes": "תיקון: גלישה עם החסימה פעילה ברשתות WiFi ביתיות שחוסמות שרתי DNS חיצוניים. החסימה ממשיכה לעבוד כרגיל."
+  "versionCode": 8,
+  "versionName": "0.2.7",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.7/app-debug.apk",
+  "notes": "חדש: חסימת אזורי הזרים ברשתות – ריילס ואקספלור באינסטגרם, ריילס ווידאו בפייסבוק. הודעות, סטוריז ופוסטים של מי שאתה עוקב אחריו נשארים פתוחים."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.2.7",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.7/app-debug.apk",
-  "notes": "חדש: חסימת אזורי הזרים ברשתות – ריילס ואקספלור באינסטגרם, ריילס ווידאו בפייסבוק. הודעות, סטוריז ופוסטים של מי שאתה עוקב אחריו נשארים פתוחים."
+  "versionCode": 9,
+  "versionName": "0.2.8",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.8/app-debug.apk",
+  "notes": "תיקון: באינסטגרם, תוצאות חיפוש, פרופילים וסרטון שנפתח מפרופיל כבר לא נחסמים. נחסמים רק לשונית הריילס ודף האקספלור הראשי."
 }

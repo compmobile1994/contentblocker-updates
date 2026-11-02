@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.1/app-debug.apk",
-  "notes": "תיקון: המסך הראשי מזהה נכון את הנגישות ואת ה-VPN התמידי. אם \"סינון תוכן\" עדיין מסומן ב-✗ — לחץ \"הפעלה\" והפעל שוב את הנגישות."
+  "versionCode": 13,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.2/app-debug.apk",
+  "notes": "מילים חדשות לחסימה: סקס וכל מה שקשור אליה (כולל כתיבים עוקפים), ומילים נפוצות בכיתובים של Reels ו-Shorts."
 }

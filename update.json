@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.3.6",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.6/app-debug.apk",
-  "notes": "חיפוש אינסטגרם: המסך הלבן מכסה רק את ההמלצות האקראיות, עם כפתורי נושאים (בינה מלאכותית, סלולר, שיווק…). תוצאות חיפוש גלויות. חדש במסך הראשי: מתג \"רק טכנולוגיה ב-Reels וב-Shorts\"."
+  "versionCode": 18,
+  "versionName": "0.3.7",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.7/app-debug.apk",
+  "notes": "חדש: עדכונים אוטומטיים ברקע (בעדכון הבא תתבקש לאשר פעם אחת, ואחר כך הכול אוטומטי). באינסטגרם ובפייסבוק נשארה רק חסימת מילים בחיפוש, עד שנכוון לפי בדיקת ההתאמה."
 }

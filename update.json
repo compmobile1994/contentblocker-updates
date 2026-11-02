@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.2.9",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.2.9/app-debug.apk",
-  "notes": "חדש: מספר הגרסה מוצג בתחתית המסך הראשי של האפליקציה."
+  "versionCode": 11,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.0/app-debug.apk",
+  "notes": "חדש: כיבוי קשה (סיסמת שותף, או המתנה של 20 דקות והשהיה זמנית), מסך \"נחסם\" עם כפתור \"זו טעות\", סינון יוטיוב ו-Reels לפי מילים, וחסימת פרסומות במשחקים. אחרי ההתקנה ייתכן שתצטרך להפעיל שוב את הנגישות."
 }

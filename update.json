@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.3.3",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.3/app-debug.apk",
-  "notes": "אינסטגרם ופייסבוק: מילה חסומה בחיפוש מוציאה אותך, ותוכן עם מילה חסומה (פיד, Reels, Explore) מדולג. אם \"סינון תוכן\" מסומן ב-✗ אחרי העדכון — לחץ \"הפעלה\"."
+  "versionCode": 15,
+  "versionName": "0.3.4",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.4/app-debug.apk",
+  "notes": "אינסטגרם: מסך לבן מעל רשת התמונות והסרטונים בחיפוש (שורת החיפוש נשארת פתוחה). אם \"סינון תוכן\" מסומן ב-✗ אחרי העדכון — לחץ \"הפעלה\"."
 }

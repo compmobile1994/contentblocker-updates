@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "0.3.2",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.2/app-debug.apk",
-  "notes": "מילים חדשות לחסימה: סקס וכל מה שקשור אליה (כולל כתיבים עוקפים), ומילים נפוצות בכיתובים של Reels ו-Shorts."
+  "versionCode": 14,
+  "versionName": "0.3.3",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.3/app-debug.apk",
+  "notes": "אינסטגרם ופייסבוק: מילה חסומה בחיפוש מוציאה אותך, ותוכן עם מילה חסומה (פיד, Reels, Explore) מדולג. אם \"סינון תוכן\" מסומן ב-✗ אחרי העדכון — לחץ \"הפעלה\"."
 }

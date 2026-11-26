@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.3.8",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.8/app-debug.apk",
-  "notes": "טלגרם: עכשיו נבדקות כל ההודעות והקישורים בצ'אט, לא רק שם הקבוצה. הגנה בכל האפליקציות (וואטסאפ, משחקים ועוד). התראה כשנכנסים בטעות לאתר או תוכן חסום."
+  "versionCode": 20,
+  "versionName": "0.3.9",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.9/app-debug.apk",
+  "notes": "מסך \"רגע קשה\": כפתור להתקשר או לשלוח וואטסאפ לאדם שאתה סומך עליו, דקה של נשימה, וקיצורים לתוכן טוב. במסך הבית יש כפתור \"רגע קשה? לחץ כאן\"."
 }

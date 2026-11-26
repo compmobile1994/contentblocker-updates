@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.3.9",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.9/app-debug.apk",
-  "notes": "מסך \"רגע קשה\": כפתור להתקשר או לשלוח וואטסאפ לאדם שאתה סומך עליו, דקה של נשימה, וקיצורים לתוכן טוב. במסך הבית יש כפתור \"רגע קשה? לחץ כאן\"."
+  "versionCode": 21,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.0/app-debug.apk",
+  "notes": "אינסטגרם: בינה מלאכותית קטנה בתוך הטלפון בודקת תמונות ומכסה תמונה לא צנועה. לפני פרופיל לא מוכר שאין בו טכנולוגיה, ספורט, טבע או מוסיקה מופיע מסך \"רגע\" עם המתנה של 10 שניות."
 }

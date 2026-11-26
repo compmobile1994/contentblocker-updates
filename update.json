@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.4.2",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.2/app-debug.apk",
-  "notes": "אינסטגרם: בדיקת התמונות מדויקת הרבה יותר (לא חוסמת כלבים וספורט), וברילס עוברים לבד לרילס הבא כשיש תמונה לא צנועה. האתר miprotool.com נפתח שוב."
+  "versionCode": 24,
+  "versionName": "0.4.3",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.3/app-debug.apk",
+  "notes": "אינסטגרם: המסך הכהה קופץ רק כשבטוחים שהתמונה לא צנועה (פחות טעויות). רשימת המילים מדויקת יותר."
 }

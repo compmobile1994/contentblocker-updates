@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.4.1",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.1/app-debug.apk",
-  "notes": "אינסטגרם: בדיקת תמונות בתוך הטלפון שמכסה תמונה לא צנועה, ומסך \"רגע\" לפני פרופיל לא מוכר. מילים חדשות נחסמות: נשיקות, התפשטות, בחורות ישראליות."
+  "versionCode": 23,
+  "versionName": "0.4.2",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.2/app-debug.apk",
+  "notes": "אינסטגרם: בדיקת התמונות מדויקת הרבה יותר (לא חוסמת כלבים וספורט), וברילס עוברים לבד לרילס הבא כשיש תמונה לא צנועה. האתר miprotool.com נפתח שוב."
 }

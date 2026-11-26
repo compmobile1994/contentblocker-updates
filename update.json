@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.0/app-debug.apk",
-  "notes": "אינסטגרם: בינה מלאכותית קטנה בתוך הטלפון בודקת תמונות ומכסה תמונה לא צנועה. לפני פרופיל לא מוכר שאין בו טכנולוגיה, ספורט, טבע או מוסיקה מופיע מסך \"רגע\" עם המתנה של 10 שניות."
+  "versionCode": 22,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.1/app-debug.apk",
+  "notes": "אינסטגרם: בדיקת תמונות בתוך הטלפון שמכסה תמונה לא צנועה, ומסך \"רגע\" לפני פרופיל לא מוכר. מילים חדשות נחסמות: נשיקות, התפשטות, בחורות ישראליות."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.4.3",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.3/app-debug.apk",
-  "notes": "אינסטגרם: המסך הכהה קופץ רק כשבטוחים שהתמונה לא צנועה (פחות טעויות). רשימת המילים מדויקת יותר."
+  "versionCode": 25,
+  "versionName": "0.4.4",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.4.4/app-debug.apk",
+  "notes": "אליאקספרס ואפליקציות קניות: לא נחסמים יותר בגלל שמות של בגדים ודגמים, רק בגלל פורנו ממש."
 }

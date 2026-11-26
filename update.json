@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.3.7",
-  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.7/app-debug.apk",
-  "notes": "חדש: עדכונים אוטומטיים ברקע (בעדכון הבא תתבקש לאשר פעם אחת, ואחר כך הכול אוטומטי). באינסטגרם ובפייסבוק נשארה רק חסימת מילים בחיפוש, עד שנכוון לפי בדיקת ההתאמה."
+  "versionCode": 19,
+  "versionName": "0.3.8",
+  "apkUrl": "https://github.com/compmobile1994/contentblocker-updates/releases/download/v0.3.8/app-debug.apk",
+  "notes": "טלגרם: עכשיו נבדקות כל ההודעות והקישורים בצ'אט, לא רק שם הקבוצה. הגנה בכל האפליקציות (וואטסאפ, משחקים ועוד). התראה כשנכנסים בטעות לאתר או תוכן חסום."
 }
